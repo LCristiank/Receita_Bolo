@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: antiquewhite;
+}
+main.container{
+    width: 40%;
+}
+h1 {
+    justify-self: center;
+}
+h2{
+    justify-self: center;
+}
+img{
+    display: flex;
+    align-self: center;
+    justify-self: center;
+}
+article{
+    display: flex;
+    column-count: 2;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+div.ingredientes{
+    width: 3000px;
+}
+div.preparo{
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
