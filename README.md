@@ -2,7 +2,7 @@
 ![](./preview.png)
 
 ## Projeto
-Receita de bolo em formatado
+Fazendo uma receita de bolo de fuba, formatado com css e html
 
 ## Ferramentas
 * CSS
