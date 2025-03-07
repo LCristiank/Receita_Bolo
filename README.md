@@ -7,4 +7,5 @@ Fazendo uma receita de bolo de fuba, formatado com css e html
 ## Ferramentas
 * CSS
 * HTML
+* GIT
 * Markedown
