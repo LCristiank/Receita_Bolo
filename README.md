@@ -1,5 +1,5 @@
 # Receita de Bolo
-![](./image.png)
+![](./preview.png)
 
 ## Projeto
 Receita de bolo em formatado
