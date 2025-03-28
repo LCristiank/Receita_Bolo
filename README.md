@@ -9,3 +9,6 @@ Fazendo uma receita de bolo de fuba, formatado com css e html
 * HTML
 * GIT
 * Markedown
+
+## Autor
+[Luan Cristian](<https://github.com/LCristiank>)
